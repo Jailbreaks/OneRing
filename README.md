@@ -32,4 +32,11 @@ To run the exploit, you must execute the following steps:
 
 Following the steps above should result in DART's descriptor being mapped into IO-Space, allowing R/W access to the host's physical memory. You can utilise this R/W access by calling the "read_host_dword" and "write_host_dword" functions, respectively.
 
+
+- [Over The Air - Vol. 2, Pt. 1: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.fr/2017/09/over-air-vol-2-pt-1-exploiting-wi-fi.html?m=1) 
+- [Over The Air - Vol. 2, Pt. 2: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.fr/2017/10/over-air-vol-2-pt-2-exploiting-wi-fi.html?m=1) 
+- [Over The Air - Vol. 2, Pt. 3: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.fr/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html?m=1)
+
+
+
 All credits go to (afaik) [laginimaineb](https://twitter.com/laginimaineb) of Google Project Zero
